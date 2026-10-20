@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sweepea/commit/8343c97aa125e390e6e4c36de699e48efa0a29d2",
       "git:hexsha": "8343c97aa125e390e6e4c36de699e48efa0a29d2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/sweepea/commit/c65b921256072a33b9331c50502b4cd838e6a911",
